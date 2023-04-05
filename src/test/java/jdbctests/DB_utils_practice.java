@@ -47,6 +47,6 @@ public class DB_utils_practice {
 
     }
 
-    
+
 
 }
